@@ -1,5 +1,5 @@
 # bindhu
-//bindhu priya
+//bindhu priya chinna
 This is first repository
 package Strings;
 
